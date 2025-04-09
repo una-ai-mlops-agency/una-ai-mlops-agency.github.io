@@ -1,6 +1,6 @@
 # Coming soon ...
 
-## About me
+## About
 
 TO DO
 
