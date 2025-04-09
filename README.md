@@ -4,25 +4,25 @@
 
 TO DO
 
-## My workshops
+## Workshops
 * [Evaluating LLM based applications](https://github.com/pyladiesams/eval-llm-based-apps-jan2025) - 16 January 2025
 * MVP Prototype Development Workshop - 23 August 2024
 * [AI in Finance](https://github.com/pyladiesams/ai-in-finance-python-lecture-may2024) - Python hands-on lecture for UVA students - 21 May 2024
 
-## My talks
+## Talks
 * 5 ways to fail scaling MLOps and Responsible AI within your organisation at Women+ in Data and AI Festival Berlin - 27 September 2024
 * GenAI Leap of faith from PoC to Production at European Women in Technology Conference - 26 June 2024
 
-## My participation in other events
+## Participation in other events
 * PyLadies Entrepreneurs and Career Development - Panel discussion at PyLadiesCon - 07 December 2024
-* Think like a data scientist - 2 Roundtables at Reshaping Work Conference AI at Work - 24 October 2024
-* Azure AI meetup - Technical Panel Discussion at Microsoft - 02 September 2024
-* Coffee With Coalesce: Data Mesh - Podcast - 14 August 2024
+* Think like a Data scientist - two Roundtables at AI at Work Reshaping Work Conference  - 24 October 2024
+* LLM Application Evaluation: Performance, Safety, and Compliance - Technical Panel Discussion at Microsoft - 02 September 2024
+* Data Mesh: Theory vs reality - Coffee With Coalesce Podcast 18 - 14 August 2024
 * AI Innovators: Harnessing Emerging Technologies for Business Evolution - Roundtable at TNW Conference - 20 June 2024
 * [Combining the Technical and Business Perspectives for Data Mesh](https://open.spotify.com/episode/2zxRmiFwebvWH9YJkD4LBS) - Data Mesh Radio Podcast 305 - 20 May 2024
-* Responsible AI Meetup - Panel discussion at Microsoft - 28 February 2024
+* Responsible AI Evening - Panel discussion at Microsoft - 28 February 2024
 
-## Workshops I organized
+## Workshops organized
 * [Introduction to BDD in Python](https://github.com/pyladiesams/bdd-with-python-mar2025) - 31 March 2025
 * [Global AI Bootcamp](https://github.com/pyladiesams/global-ai-bootcamp-mar2025) - 4 March 2025
 * [Introduction to Data Storytelling](https://github.com/pyladiesams/intro-data-storytelling-dec2024) - 07 December 2024
@@ -37,5 +37,5 @@ TO DO
 * [Fine-tuning text-to-image diffusion models for personalization and more](https://github.com/pyladiesams/personalization-with-text-to-image-diffusion-models-feb2024) - 29 February 2024
 * [An introduction to conformal prediction](https://github.com/pyladiesams/conformal-prediction-jan2024) - 25 January 2024
 
-## Other events I organized 
+## Other events organized 
 * [Python Open Source Sprints](https://github.com/pyladiesams/python-oss-sprints-mar2024) - 23 March 2024
