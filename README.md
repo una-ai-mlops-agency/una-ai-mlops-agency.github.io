@@ -1,14 +1,13 @@
 # Coming soon ...
 
 ## About
-
-TO DO
+Coming soon ...
 
 ## Workshops
 * [Evaluating LLM based applications](https://github.com/pyladiesams/eval-llm-based-apps-jan2025) - 16 January 2025
 * AI MVP Prototype Development - 23 August 2024
 * [AI in Finance](https://github.com/pyladiesams/ai-in-finance-python-lecture-may2024) - Python hands-on lecture for UVA students - 21 May 2024
-* [AI in Finance](https://github.com/pyladiesams/ai-in-finance-python-lecture-may2023)) - Python hands-on lecture for UVA students - XX May 2023
+* [AI in Finance](https://github.com/pyladiesams/ai-in-finance-python-lecture-may2023) - Python hands-on lecture for UVA students - 20 May 2023
 
 ## Talks
 * 5 ways to fail scaling MLOps and Responsible AI within your organisation at Women+ in Data and AI Festival Berlin - 27 September 2024
@@ -26,6 +25,7 @@ TO DO
 * AI Innovators: Harnessing Emerging Technologies for Business Evolution - Roundtable at TNW Conference - 20 June 2024
 * [Combining the Technical and Business Perspectives for Data Mesh](https://open.spotify.com/episode/2zxRmiFwebvWH9YJkD4LBS) - Data Mesh Radio Podcast 305 - 20 May 2024
 * Responsible AI Evening - Panel discussion at Microsoft - 28 February 2024
+* PyLadies Amsterdam stand at PyData Amsterdam Conference - 14-16 September 2023
 * Exploring the Frontiers of Generative AI - Technical Panel Discussion at Global AI Generate - 12 June 2023
 
 ## Workshops organized
