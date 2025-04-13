@@ -15,6 +15,7 @@ Coming soon ...
 * [Data Contracts in action powered by Python open source ecosystem](https://youtu.be/YGKqvMhaEVA?feature=shared) - Talk at PyData Amsterdam - 16 September 2023
 * PyLadies Amsterdam stand at PyData Amsterdam Conference - 14-16 September 2023
 * Mentor for PyData Amsterdam first-time speakers - 31 July 2023
+* [We build a ML pipeline after we deploy](https://youtu.be/eGrUUuqZIhM?feature=shared) - Talk at EuroPython - 04 October 2021
 
 ### Meetups
 * [Evaluating LLM-based applications](https://github.com/pyladiesams/eval-llm-based-apps-jan2025) - Workshop at PyLadies Hamburg/Amsterdam - 16 January 2025
@@ -26,6 +27,13 @@ Coming soon ...
 * Mentor at Django Girls Amsterdam - 16 September 2022
 * Outsmart your financial industry competitors today - Talk at LinkIT - 26 April 2022
 * [An Introduction to Model Drift](https://github.com/pyladiesams/model-drift-beginner-dec2022) - Workshop at PyLadies Amsterdam - 21 December 2022
+* [Bringing ML Models into Production Bootcamp - Capstone results](https://github.com/pyladiesams/bootcamp-bringing-ML-models-into-production-intermediary-jun-aug2021) - 07 August 2021
+* [Bringing ML Models into Production Bootcamp - Lesson 4](https://github.com/pyladiesams/bootcamp-bringing-ML-models-into-production-intermediary-jun-aug2021) - 21 July 2021
+* [Bringing ML Models into Production Bootcamp - Lesson 3](https://github.com/pyladiesams/bootcamp-bringing-ML-models-into-production-intermediary-jun-aug2021) - 14 July 2021
+* [Bringing ML Models into Production Bootcamp - Lesson 2](https://github.com/pyladiesams/bootcamp-bringing-ML-models-into-production-intermediary-jun-aug2021) - 07 July 2021
+* [Bringing ML Models into Production Bootcamp - Lesson 1](https://github.com/pyladiesams/bootcamp-bringing-ML-models-into-production-intermediary-jun-aug2021) - 30 June 2021
+* [The Hitchhiker's Guide to the Machine Learning Engineering Galaxy](https://youtu.be/a6DkXpTS20o?feature=shared) - Talk at LinkIT - 20 April 2021
+* Technical panel discussion at pre-FOSDEM - 03 February 2021
   
 ### Other events
 * AI MVP Prototype Development - Workshop at WAI Accelerate - 23 August 2024
@@ -71,9 +79,19 @@ Coming soon ...
 * [An Introduction to Graph Databases with GQLAlchemy and Python](https://github.com/pyladiesams/graphdbs-gqlalchemy-beginner-mar2022) - 29 March 2022
 * [A Deep Dive into Fairness in Machine Learning](https://github.com/pyladiesams/ml-fairness-advanced-feb2022) - 23 February 2022
 * [Global AI Bootcamp](https://github.com/pyladiesams/global-ai-bootcamp-beginner-jan2022) - 15 January 2022
+* [An Introduction to Communicating about your Models](https://github.com/pyladiesams/communicating-about-models-beginner-dec2021) - 16 December 2021
+* [An Introduction to Fairness in Machine Learning using Fairlearn](https://github.com/pyladiesams/ml-fairness-beginner-nov2021) - 24 November 2021
+* Global AI Back Together - 20 October 2021
+* [An Introduction to Product List Sorting](https://github.com/pyladiesams/product-sorting-beginner-sep2021) - 29 September 2021
+* [An introduction to Web Scraping with Python and Azure Functions](https://github.com/pyladiesams/web-scraping-beginner-may2021) - 26 May 2021
+* [Easy Fairish: Basics of Classification and Bias](https://github.com/pyladiesams/classification-bias-beginner-apr2021) - 21 April 2021
+* [An introduction to delivering technical presentations with confidence](https://github.com/pyladiesams/tech-presentations-beginner-mar2021) - 25 March 2021
+* [An introduction to FOSS contributions](https://github.com/pyladiesams/FOSS-beginner-jan2021) - 27 January 2021
+* 
 
 ### Other events organized 
 * [Python Open Source Sprints](https://github.com/pyladiesams/python-oss-sprints-mar2024) - 23 March 2024
 * [Careers with Python: Volume 2](https://github.com/pyladiesams/careers-with-python-jun2023) - 20 June 2023
 * [PyLadies Amsterdam + MLOps.Community Meetup](https://github.com/pyladiesams/mlops-event-feb2023) - 23 February 2023
 * [Careers with Python: Volume 1](https://github.com/pyladiesams/careers-with-python-beginner-apr2022) - 19 April 2022
+* [Careers with Python: Volume 0](https://github.com/pyladiesams/Careers-With-Python-Beginner-feb2021) - 24 February 2021
