@@ -22,6 +22,10 @@ Coming soon ...
 * Responsible AI Evening - Technical panel discussion at Microsoft - 28 February 2024
 * The real value of data products and costs of building and maintaining them - Talk at Data Special Further Forward - 21 February 2024
 * Exploring the Frontiers of Generative AI - Technical Panel Discussion at Global AI Generate - 12 June 2023
+* Data Mesh: Unlocking data insights at scale responsibly - Talk at Royal HaskoningDHV - 28 October 2022
+* Mentor at Django Girls Amsterdam - 16 September 2022
+* Outsmart your financial industry competitors today - Talk at LinkIT - 26 April 2022
+* [An Introduction to Model Drift](https://github.com/pyladiesams/model-drift-beginner-dec2022) - Workshop at PyLadies Amsterdam - 21 December 2022
   
 ### Other events
 * AI MVP Prototype Development - Workshop at WAI Accelerate - 23 August 2024
@@ -31,6 +35,7 @@ Coming soon ...
 * [Practical Data Privacy](https://youtu.be/2s_wnPo7cOc?feature=shared) - GOTO Book Club - 16 November 2023
 * Will AI take over any tech jobs in the future? - Workshop at LeWagon - 12 October 2023
 * [AI in Finance 2023](https://github.com/pyladiesams/ai-in-finance-python-lecture-may2023) - Python hands-on lecture at UVA - 23 May 2023
+* [AI in Finance 2022](https://github.com/pyladiesams/ai-in-finance-python-lecture-beginner-may2022) - Python hands-on lecture at UVA - 23 May 2022
 
 ## Events organised
 
@@ -58,8 +63,17 @@ Coming soon ...
 * [An introduction to Data Science using Snowflake](https://github.com/pyladiesams/snowflake-apr2023) - 25 April 2023
 * [Global AI Bootcamp](https://github.com/pyladiesams/global-ai-bootcamp-mar2023) - 2 March 2023
 * [101 Django Rest Framework](https://github.com/pyladiesams/101-django-rest-framework-jan2023) - 25 January 2023
+* [Deep Learning with PyTorch](https://github.com/pyladiesams/deepLearningPyTorch-beginner-nov2022) - 30 November 2022
+* [Global AI Developer Days](https://github.com/pyladiesams/global-ai-developer-days-beginner-oct2022) - 31 October 2022
+* [An introduction to cloud-native web applications](https://github.com/pyladiesams/cloud-native-web-app-beginner-aug2022) - 17 August 2022
+* [Python 101](https://github.com/pyladiesams/python101-beginner-jul2022) - 26 July 2022
+* [A Deep Dive into Containerized Model Serving with FastAPI](https://github.com/pyladiesams/containerized-model-serving-with-fastapi-advanced-jun2022) - 28 June 2022
+* [An Introduction to Graph Databases with GQLAlchemy and Python](https://github.com/pyladiesams/graphdbs-gqlalchemy-beginner-mar2022) - 29 March 2022
+* [A Deep Dive into Fairness in Machine Learning](https://github.com/pyladiesams/ml-fairness-advanced-feb2022) - 23 February 2022
+* [Global AI Bootcamp](https://github.com/pyladiesams/global-ai-bootcamp-beginner-jan2022) - 15 January 2022
 
 ### Other events organized 
 * [Python Open Source Sprints](https://github.com/pyladiesams/python-oss-sprints-mar2024) - 23 March 2024
 * [Careers with Python: Volume 2](https://github.com/pyladiesams/careers-with-python-jun2023) - 20 June 2023
 * [PyLadies Amsterdam + MLOps.Community Meetup](https://github.com/pyladiesams/mlops-event-feb2023) - 23 February 2023
+* [Careers with Python: Volume 1](https://github.com/pyladiesams/careers-with-python-beginner-apr2022) - 19 April 2022
