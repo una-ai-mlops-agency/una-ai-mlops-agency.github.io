@@ -6,16 +6,16 @@ Coming soon ...
 ### Conferences
 * [PyLadies Entrepreneurs and Career Development](https://www.youtube.com/live/V73KeBCzXpM?feature=shared) - Panel discussion at PyLadiesCon - 07 December 2024
 * Think like a Data scientist - Roundtables leader at AI at Work Reshaping Work - 24 October 2024
-* 5 ways to fail scaling MLOps and Responsible AI within your organisation - Talk at Women+ in Data and AI Festival Berlin - 27 September 2024
+* [5 ways to fail scaling MLOps and Responsible AI within your organisation](https://github.com/una-ai-mlops-agency/event-slides/blob/main/conferences/5-MLOps-fails.pdf) - Talk at Women+ in Data and AI Festival Berlin - 27 September 2024
 * PyLadies Amsterdam stand at PyData Amsterdam - 19-20 September 2024
 * PyLadies stand at EuroPython Prague - 10-12 July 2024
-* GenAI Leap of faith from PoC to Production - Talk at European Women in Technology - 26 June 2024
+* [GenAI Leap of faith from PoC to Production](https://github.com/una-ai-mlops-agency/event-slides/blob/main/conferences/GenAI-from-PoC-to-Prod.pdf) - Talk at European Women in Technology - 26 June 2024
 * AI Innovators: Harnessing Emerging Technologies for Business Evolution - Roundtable leader at The Next Web - 20 June 2024
 * [5 ways to fail with time series](https://youtu.be/5jOW6baXYI4?feature=shared) - Talk at PyData Eindhoven - 30 November 2023
 * [Data Contracts in action powered by Python open source ecosystem](https://youtu.be/YGKqvMhaEVA?feature=shared) - Talk at PyData Amsterdam - 16 September 2023
 * PyLadies Amsterdam stand at PyData Amsterdam - 14-16 September 2023
 * Mentor for PyData Amsterdam first-time speakers - 31 July 2023
-* Journey to the cloud: Best practices for Data and AI scaling within Enterprise - Talk at Big Data Expo - 14 September 2022
+* [Journey to the cloud: Best practices for Data and AI scaling within Enterprise](https://github.com/una-ai-mlops-agency/event-slides/blob/main/conferences/Data-AI-scaling.pdf) - Talk at Big Data Expo - 14 September 2022
 * [We build a ML pipeline after we deploy](https://youtu.be/eGrUUuqZIhM?feature=shared) - Talk at EuroPython - 04 October 2021
 * [The Hitchhiker's Guide to the Machine Learning Engineering Galaxy](https://gitnation.com/person/alyona_galyeva/certificates) - Workshop at MLConfEU - 05 November 2020
 * [Human-like Visual Search Application with Small Data](https://youtu.be/2l_WASP1_1A?feature=shared) - Workshop at PyData Global - 08 September 2020
@@ -27,9 +27,9 @@ Coming soon ...
 * [Evaluating LLM-based applications](https://github.com/pyladiesams/eval-llm-based-apps-jan2025) - Workshop at PyLadies Hamburg/Amsterdam - 16 January 2025
 * LLM Application Evaluation: Performance, Safety, and Compliance - Technical panel discussion at Microsoft - 02 September 2024
 * Responsible AI Evening - Technical panel discussion at Microsoft - 28 February 2024
-* The real value of data products and costs of building and maintaining them - Talk at Data Special Further Forward - 21 February 2024
+* [The real value of data products and costs of building and maintaining them](https://github.com/una-ai-mlops-agency/event-slides/blob/main/meetups/Data-products-value.pdf) - Talk at Data Special Further Forward - 21 February 2024
 * Exploring the Frontiers of Generative AI - Technical Panel Discussion at Global AI Generate - 12 June 2023
-* ML Best Practices - Talk at Thoughtworks - 22 December 2022
+* [ML Best Practices](https://github.com/una-ai-mlops-agency/event-slides/blob/main/meetups/ML-Best-practices.pdf) - Talk at Thoughtworks - 22 December 2022
 * Data Mesh: Unlocking data insights at scale responsibly - Talk at Royal HaskoningDHV - 28 October 2022
 * Mentor at Django Girls Amsterdam - 16 September 2022
 * [Start using Data Models: Outsmart your financial industry competitors today](https://youtu.be/6psIoLqh4wY?feature=shared) - Panel Discussion at Studio LinkIT - 26 April 2022
@@ -41,7 +41,7 @@ Coming soon ...
 * [Bringing ML Models into Production Bootcamp - Lesson 1](https://github.com/pyladiesams/bootcamp-bringing-ML-models-into-production-intermediary-jun-aug2021) - 30 June 2021
 * [The Hitchhiker's Guide to the Machine Learning Engineering Galaxy](https://youtu.be/a6DkXpTS20o?feature=shared) - Talk at Virtual Roadtrip DeFrost your Data - 20 April 2021
 * Technical panel discussion at pre-FOSDEM - 03 February 2021
-* On the way to financial singularity - Talk at ABN AMRO Digital Grid - 19 November 2020 
+* [AI in Finance: On the way to financial singularity](https://github.com/una-ai-mlops-agency/event-slides/blob/main/meetups/AI-in-Finance.pdf) - Talk at ABN AMRO Digital Grid - 19 November 2020 
 * [Jupyter Refactoring Workshop](https://github.com/pyladiesams/Jupyter-refactoring-beginner-jul2020) - Workshop at PyLadies Amsterdam - 29 July 2020
 * [Reducing production waste with streaming analytics](https://youtu.be/IR9oMg-A0Wk?feature=shared&t=3590) - Talk at Real Time Data Streaming Ontbijtsessie - 08 June 2020
 * The undeniable bias in AI - Technical panel discussion at WiT Regatta March Pop-Up - 21 March 2019
