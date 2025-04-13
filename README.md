@@ -15,7 +15,10 @@ Coming soon ...
 * [Data Contracts in action powered by Python open source ecosystem](https://youtu.be/YGKqvMhaEVA?feature=shared) - Talk at PyData Amsterdam - 16 September 2023
 * PyLadies Amsterdam stand at PyData Amsterdam Conference - 14-16 September 2023
 * Mentor for PyData Amsterdam first-time speakers - 31 July 2023
+* Journey to the cloud: Best practices for Data and AI scaling within Enterprise - Talk at Big Data Expo - 14 September 2022
 * [We build a ML pipeline after we deploy](https://youtu.be/eGrUUuqZIhM?feature=shared) - Talk at EuroPython - 04 October 2021
+* [The Hitchhiker's Guide to the Machine Learning Engineering Galaxy](https://gitnation.com/person/alyona_galyeva/certificates) - Workshop at MLConfEU - 05 November 2020
+* [Human-like Visual Search Application with Small Data](https://youtu.be/2l_WASP1_1A?feature=shared) - Workshop at PyData Global - 08 September 2020
 
 ### Meetups
 * [Evaluating LLM-based applications](https://github.com/pyladiesams/eval-llm-based-apps-jan2025) - Workshop at PyLadies Hamburg/Amsterdam - 16 January 2025
@@ -23,33 +26,41 @@ Coming soon ...
 * Responsible AI Evening - Technical panel discussion at Microsoft - 28 February 2024
 * The real value of data products and costs of building and maintaining them - Talk at Data Special Further Forward - 21 February 2024
 * Exploring the Frontiers of Generative AI - Technical Panel Discussion at Global AI Generate - 12 June 2023
+* ML Best Practices - Talk at Thoughtworks - 22 December 2022
 * Data Mesh: Unlocking data insights at scale responsibly - Talk at Royal HaskoningDHV - 28 October 2022
 * Mentor at Django Girls Amsterdam - 16 September 2022
-* Outsmart your financial industry competitors today - Talk at LinkIT - 26 April 2022
+* [Start using Data Models: Outsmart your financial industry competitors today](https://youtu.be/6psIoLqh4wY?feature=shared) - Panel Discussion at Studio LinkIT - 26 April 2022
 * [An Introduction to Model Drift](https://github.com/pyladiesams/model-drift-beginner-dec2022) - Workshop at PyLadies Amsterdam - 21 December 2022
 * [Bringing ML Models into Production Bootcamp - Capstone results](https://github.com/pyladiesams/bootcamp-bringing-ML-models-into-production-intermediary-jun-aug2021) - 07 August 2021
 * [Bringing ML Models into Production Bootcamp - Lesson 4](https://github.com/pyladiesams/bootcamp-bringing-ML-models-into-production-intermediary-jun-aug2021) - 21 July 2021
 * [Bringing ML Models into Production Bootcamp - Lesson 3](https://github.com/pyladiesams/bootcamp-bringing-ML-models-into-production-intermediary-jun-aug2021) - 14 July 2021
 * [Bringing ML Models into Production Bootcamp - Lesson 2](https://github.com/pyladiesams/bootcamp-bringing-ML-models-into-production-intermediary-jun-aug2021) - 07 July 2021
 * [Bringing ML Models into Production Bootcamp - Lesson 1](https://github.com/pyladiesams/bootcamp-bringing-ML-models-into-production-intermediary-jun-aug2021) - 30 June 2021
-* [The Hitchhiker's Guide to the Machine Learning Engineering Galaxy](https://youtu.be/a6DkXpTS20o?feature=shared) - Talk at LinkIT - 20 April 2021
+* [The Hitchhiker's Guide to the Machine Learning Engineering Galaxy](https://youtu.be/a6DkXpTS20o?feature=shared) - Talk at Virtual Roadtrip DeFrost your Data - 20 April 2021
 * Technical panel discussion at pre-FOSDEM - 03 February 2021
+* On the way to financial singularity - Talk at ABN AMRO Digital Grid - 19 November 2020 
+* [Jupyter Refactoring Workshop](https://github.com/pyladiesams/Jupyter-refactoring-beginner-jul2020) - Workshop at PyLadies Amsterdam - 29 July 2020
+* [Reducing production waste with streaming analytics](https://youtu.be/IR9oMg-A0Wk?feature=shared&t=3590) - Talk at Real Time Data Streaming Ontbijtsessie - 08 June 2020
   
 ### Other events
 * AI MVP Prototype Development - Workshop at WAI Accelerate - 23 August 2024
-* Data Mesh: Theory vs reality - Coffee With Coalesce Podcast - 14 August 2024
+* [Data Mesh: Theory vs reality](https://coalesce.io/podcast/ep-18-data-mesh-with-una-galyeva/) - Coffee With Coalesce Podcast - 14 August 2024
 * [AI in Finance 2024](https://github.com/pyladiesams/ai-in-finance-python-lecture-may2024) - Python hands-on lecture at UVA - 21 May 2024
 * [Combining the Technical and Business Perspectives for Data Mesh](https://open.spotify.com/episode/2zxRmiFwebvWH9YJkD4LBS) - Data Mesh Radio Podcast - 20 May 2024
 * [Practical Data Privacy](https://youtu.be/2s_wnPo7cOc?feature=shared) - GOTO Book Club - 16 November 2023
 * Will AI take over any tech jobs in the future? - Workshop at LeWagon - 12 October 2023
 * [AI in Finance 2023](https://github.com/pyladiesams/ai-in-finance-python-lecture-may2023) - Python hands-on lecture at UVA - 23 May 2023
 * [AI in Finance 2022](https://github.com/pyladiesams/ai-in-finance-python-lecture-beginner-may2022) - Python hands-on lecture at UVA - 23 May 2022
+* Jury for WAI Datathon - 12 October 2020
+* [Jupyter Notebook Refactoring Series — Part 2](https://itnext.io/jupyter-notebook-refactoring-series-part-2-899e40163ead) - Technical article for ITNEXT - 30 June 2020
+* [Jupyter Notebook Refactoring Series — Part 1](https://itnext.io/jupyter-notebook-refactoring-series-part-1-adff1b44dfdb) - Technical article for ITNEXT - 12 May 2020
+* [AI Applied: How to stop wildfires through flame and smoke detection](https://www.omdena.com/blog/stop-wildfires) - Technical summary of the Real-world AI challenge - 10 February 2020
 
 ## Events organised
 
 ### Workshops organized
 * [Introduction to BDD in Python](https://github.com/pyladiesams/bdd-with-python-mar2025) - 31 March 2025
-* [Global AI Bootcamp](https://github.com/pyladiesams/global-ai-bootcamp-mar2025) - 4 March 2025
+* [Global AI Bootcamp](https://github.com/pyladiesams/global-ai-bootcamp-mar2025) - 04 March 2025
 * [Introduction to Data Storytelling](https://github.com/pyladiesams/intro-data-storytelling-dec2024) - 07 December 2024
 * [LLMs in Action: How Booking.com Scans, Detects, & Monitors Fake & Unsafe Content](https://github.com/pyladiesams/llms-scan-reviews-nov2024) - 20 November 2024
 * [What's inside the box? An introduction to explainability in finance](https://github.com/pyladiesams/intro-to-explainabilty-in-finance-oct2024) - 22 October 2024
@@ -69,7 +80,7 @@ Coming soon ...
 * [An Introduction to Pyro](https://github.com/pyladiesams/pyro-may2023) - 30 May 2023
 * [Federated Machine Learning with Flower: Packaging, Monitoring, Securing](https://github.com/mlops-and-crafts/federated-learning/)- 10 May 2023
 * [An introduction to Data Science using Snowflake](https://github.com/pyladiesams/snowflake-apr2023) - 25 April 2023
-* [Global AI Bootcamp](https://github.com/pyladiesams/global-ai-bootcamp-mar2023) - 2 March 2023
+* [Global AI Bootcamp](https://github.com/pyladiesams/global-ai-bootcamp-mar2023) - 02 March 2023
 * [101 Django Rest Framework](https://github.com/pyladiesams/101-django-rest-framework-jan2023) - 25 January 2023
 * [Deep Learning with PyTorch](https://github.com/pyladiesams/deepLearningPyTorch-beginner-nov2022) - 30 November 2022
 * [Global AI Developer Days](https://github.com/pyladiesams/global-ai-developer-days-beginner-oct2022) - 31 October 2022
@@ -87,11 +98,24 @@ Coming soon ...
 * [Easy Fairish: Basics of Classification and Bias](https://github.com/pyladiesams/classification-bias-beginner-apr2021) - 21 April 2021
 * [An introduction to delivering technical presentations with confidence](https://github.com/pyladiesams/tech-presentations-beginner-mar2021) - 25 March 2021
 * [An introduction to FOSS contributions](https://github.com/pyladiesams/FOSS-beginner-jan2021) - 27 January 2021
-* 
+* [Introduction to NLP](https://github.com/pyladiesams/NLP-beginner-nov2020) - 25 November 2020
+* [Introduction to TF-Hub & Object Detection using TF-Hub](https://github.com/pyladiesams/tf-hub-beginner-oct2020) - 22 October 2020
+* [Data Interpretation evening](https://github.com/pyladiesams/data-interpretation-beginner-sep2020) - 30 September 2020
+* [Interactive Data Visualisation with Bokeh](https://github.com/pyladiesams/Bokeh-visualisation-beginner-aug2020) - 26 August 2020
+* [Python Bootcamp Data Analysis for Beginners - Capstone](https://github.com/pyladiesams/Bootcamp-Data-Analysis-beginner-apr-may2020) - 03 June 2020
+* [Python Bootcamp Data Analysis for Beginners - Lesson 4](https://github.com/pyladiesams/Bootcamp-Data-Analysis-beginner-apr-may2020) - 27 May 2020
+* [Python Bootcamp Data Analysis for Beginners - Lesson 3](https://github.com/pyladiesams/Bootcamp-Data-Analysis-beginner-apr-may2020) - 13 May 2020
+* [Python Bootcamp Data Analysis for Beginners - Lesson 2](https://github.com/pyladiesams/Bootcamp-Data-Analysis-beginner-apr-may2020) - 06 May 2020
+* [Python Bootcamp Data Analysis for Beginners - Lesson 1](https://github.com/pyladiesams/Bootcamp-Data-Analysis-beginner-apr-may2020) - 29 April 2020
+* [The Right Way To Do Azure Functions in Python](https://github.com/pyladiesams/Azure-functions-beginner-mar2020) - 31 March 2020
+* [Object-oriented programming in data science](https://github.com/pyladiesams/OOP-advanced-jan2020) - 25 February 2020
+* [A Deep Dive into OOP](https://github.com/pyladiesams/OOP-advanced-jan2020) - 23 January 2020
+  
 
-### Other events organized 
+### Talks organized 
 * [Python Open Source Sprints](https://github.com/pyladiesams/python-oss-sprints-mar2024) - 23 March 2024
 * [Careers with Python: Volume 2](https://github.com/pyladiesams/careers-with-python-jun2023) - 20 June 2023
 * [PyLadies Amsterdam + MLOps.Community Meetup](https://github.com/pyladiesams/mlops-event-feb2023) - 23 February 2023
 * [Careers with Python: Volume 1](https://github.com/pyladiesams/careers-with-python-beginner-apr2022) - 19 April 2022
 * [Careers with Python: Volume 0](https://github.com/pyladiesams/Careers-With-Python-Beginner-feb2021) - 24 February 2021
+* [aggregate(PyLadies, PyAmsterdam, ETL).byebye(2020)](https://github.com/pyladiesams/ETL-intermediate-dec2020) - 22 December 2020
