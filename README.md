@@ -4,7 +4,7 @@ Coming soon ...
 ## Events 
 
 ### Conferences
-* PyLadies Entrepreneurs and Career Development - Panel discussion at PyLadiesCon - 07 December 2024
+* [PyLadies Entrepreneurs and Career Development](https://www.youtube.com/live/V73KeBCzXpM?feature=shared) - Panel discussion at PyLadiesCon - 07 December 2024
 * Think like a Data scientist - Roundtables leader at AI at Work Reshaping Work - 24 October 2024
 * 5 ways to fail scaling MLOps and Responsible AI within your organisation - Talk at Women+ in Data and AI Festival Berlin - 27 September 2024
 * PyLadies Amsterdam stand at PyData Amsterdam - 19-20 September 2024
@@ -13,12 +13,15 @@ Coming soon ...
 * AI Innovators: Harnessing Emerging Technologies for Business Evolution - Roundtable leader at The Next Web - 20 June 2024
 * [5 ways to fail with time series](https://youtu.be/5jOW6baXYI4?feature=shared) - Talk at PyData Eindhoven - 30 November 2023
 * [Data Contracts in action powered by Python open source ecosystem](https://youtu.be/YGKqvMhaEVA?feature=shared) - Talk at PyData Amsterdam - 16 September 2023
-* PyLadies Amsterdam stand at PyData Amsterdam Conference - 14-16 September 2023
+* PyLadies Amsterdam stand at PyData Amsterdam - 14-16 September 2023
 * Mentor for PyData Amsterdam first-time speakers - 31 July 2023
 * Journey to the cloud: Best practices for Data and AI scaling within Enterprise - Talk at Big Data Expo - 14 September 2022
 * [We build a ML pipeline after we deploy](https://youtu.be/eGrUUuqZIhM?feature=shared) - Talk at EuroPython - 04 October 2021
 * [The Hitchhiker's Guide to the Machine Learning Engineering Galaxy](https://gitnation.com/person/alyona_galyeva/certificates) - Workshop at MLConfEU - 05 November 2020
 * [Human-like Visual Search Application with Small Data](https://youtu.be/2l_WASP1_1A?feature=shared) - Workshop at PyData Global - 08 September 2020
+* PyLadies Amsterdam stand at Amsterdam WIT Regatta - 28 October - 01 November 2023
+* Deepdive: Debiasing AI - Panel discussion at Amsterdam WIT Regatta - 30 October 2019
+* BedTalks on Tech: why the world needs more WIT - Panel discussion at The Next Web - 09-10 May 2019
 
 ### Meetups
 * [Evaluating LLM-based applications](https://github.com/pyladiesams/eval-llm-based-apps-jan2025) - Workshop at PyLadies Hamburg/Amsterdam - 16 January 2025
@@ -41,6 +44,8 @@ Coming soon ...
 * On the way to financial singularity - Talk at ABN AMRO Digital Grid - 19 November 2020 
 * [Jupyter Refactoring Workshop](https://github.com/pyladiesams/Jupyter-refactoring-beginner-jul2020) - Workshop at PyLadies Amsterdam - 29 July 2020
 * [Reducing production waste with streaming analytics](https://youtu.be/IR9oMg-A0Wk?feature=shared&t=3590) - Talk at Real Time Data Streaming Ontbijtsessie - 08 June 2020
+* The undeniable bias in AI - Technical panel discussion at WiT Regatta March Pop-Up - 21 March 2019
+* The story of bleeding-edge technologies - Technical panel discussion at WiT Regatta February Pop-Up - 12 February 2019
   
 ### Other events
 * AI MVP Prototype Development - Workshop at WAI Accelerate - 23 August 2024
@@ -110,8 +115,13 @@ Coming soon ...
 * [The Right Way To Do Azure Functions in Python](https://github.com/pyladiesams/Azure-functions-beginner-mar2020) - 31 March 2020
 * [Object-oriented programming in data science](https://github.com/pyladiesams/OOP-advanced-jan2020) - 25 February 2020
 * [A Deep Dive into OOP](https://github.com/pyladiesams/OOP-advanced-jan2020) - 23 January 2020
+* [A Deep Dive into Advanced Pandas](https://github.com/pyladiesams/Pandas-advanced-nov2019) - 28 November 2019
+* [An introduction to PySpark](https://github.com/pyladiesams/pyspark-nov2019) - 28 November 2019
+* [An introduction to Git, GitHub and Python virtual environments](https://github.com/pyladiesams/github-nov2019) - 12 November 2019
+* [An introduction to Flask: Create a web app and host it in the cloud](https://github.com/pyladiesams/flask-okt2019) - 23 October 2019
+* [Visualize data with Seaborn & Matplotlib](https://github.com/pyladiesams/vizualisation-sep2019) - 24 September 2019
+* [Test Test Test](https://github.com/pyladiesams/pytest-aug2019) - 22 August 2019
   
-
 ### Talks organized 
 * [Python Open Source Sprints](https://github.com/pyladiesams/python-oss-sprints-mar2024) - 23 March 2024
 * [Careers with Python: Volume 2](https://github.com/pyladiesams/careers-with-python-jun2023) - 20 June 2023
@@ -119,3 +129,4 @@ Coming soon ...
 * [Careers with Python: Volume 1](https://github.com/pyladiesams/careers-with-python-beginner-apr2022) - 19 April 2022
 * [Careers with Python: Volume 0](https://github.com/pyladiesams/Careers-With-Python-Beginner-feb2021) - 24 February 2021
 * [aggregate(PyLadies, PyAmsterdam, ETL).byebye(2020)](https://github.com/pyladiesams/ETL-intermediate-dec2020) - 22 December 2020
+* NLP in practice - From bank transactions to non-profit organizations - 11 December 2019
